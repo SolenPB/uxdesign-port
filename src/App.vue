@@ -2,21 +2,21 @@
 
   <div id="app">
 		<nav>
-			<HomeLink />
+			<NavLink />
 			<a href="/about">À propos</a>
 			<a href="/contact">Contact</a>
 		</nav>
-		<p>Bienvenue sur notre page d'<HomeLink /></p>
+		<p>Bienvenue sur notre page d'<NavLink /></p>
 	</div>
 </template>
 
 <script>
-import HomeLink from './components/HomeLink.vue'
+import NavLink from './components/NavLink.vue'
 
 export default {
   name: 'App',
   components: {
-    HomeLink
+    NavLink
   }
 }
 </script>

@@ -1,6 +1,6 @@
 <script>
 export default {
-	name: 'HomeLink'
+	name: 'NavLink'
 }
 </script>
 
