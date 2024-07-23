@@ -12,7 +12,7 @@ export default {
 <style>
 	a {
 		text-decoration: none;
-        color: black;
+        color: white;
         padding-right: 5%;
 	}
 </style>
