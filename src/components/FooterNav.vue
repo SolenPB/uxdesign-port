@@ -9,5 +9,7 @@ export default {
 </template>
 
 <style>
-
+	p {
+		color: blue;
+	}
 </style>
