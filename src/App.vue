@@ -2,11 +2,10 @@
 
   <div id="app">
 		<nav>
-			<NavLink />
-			<a href="/about">À propos</a>
-			<a href="/contact">Contact</a>
+			<NavLink url="/" text="Accueil" />
+      <NavLink url="/about" text="A propos" />
+      <NavLink url="/portfolio" text="Portfolio" />
 		</nav>
-		<p>Bienvenue sur notre page d'<NavLink /></p>
     <FooterNav />
 	</div>
 </template>

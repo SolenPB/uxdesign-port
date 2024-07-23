@@ -1,11 +1,12 @@
 <script>
 export default {
-	name: 'NavLink'
+	name: 'NavLink',
+	props : ['url', 'text']
 }
 </script>
 
 <template>
-	<a href="/">Accueil</a> 
+	<a :href="url">{{ text }}</a> 
 </template>
 
 <style>
