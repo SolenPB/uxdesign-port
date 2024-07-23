@@ -7,16 +7,19 @@
 			<a href="/contact">Contact</a>
 		</nav>
 		<p>Bienvenue sur notre page d'<NavLink /></p>
+    <FooterNav />
 	</div>
 </template>
 
 <script>
 import NavLink from './components/NavLink.vue'
+import FooterNav from './components/FooterNav.vue'
 
 export default {
   name: 'App',
   components: {
-    NavLink
+    NavLink,
+    FooterNav
   }
 }
 </script>
