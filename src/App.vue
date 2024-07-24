@@ -10,18 +10,17 @@
 <style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  background-color: #0f203a;
 }
 
 nav {
-  padding: 30px;
+  padding: 7%;
 
   a {
     font-weight: bold;
-    color: #2c3e50;
+    color: white;
     text-decoration: none;
 
     &.router-link-exact-active {
