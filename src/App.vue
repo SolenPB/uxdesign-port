@@ -8,6 +8,10 @@
 </template>
 
 <style lang="scss">
+html {
+  background-color: #0f203a;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   text-align: center;
