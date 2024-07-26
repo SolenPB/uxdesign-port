@@ -15,7 +15,7 @@ html {
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   text-align: center;
-  color: #2c3e50;
+  color:aliceblue;
   background-color: #0f203a;
 }
 
