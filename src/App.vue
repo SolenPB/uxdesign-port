@@ -19,6 +19,10 @@ html {
   background-color: #0f203a;
 }
 
+a{
+  margin: 0;
+}
+
 nav {
   padding: 7%;
 
