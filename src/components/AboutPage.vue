@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-    <h1>Portfolio</h1>
+    <h1>A propos</h1>
 	<p>Après un parcours dans les sciences humaines et dans le commerce, je me reconvertie dans l’insertion professionnelle en 2020.</p><br> 
     
     <p>Passionnée par le numérique depuis très jeune, j’ai vu naître une appétence pour l’UX design, grâce à une rencontre faite lors de ma première expérience en tant que conseillère en insertion professionnelle.</p><br> 
