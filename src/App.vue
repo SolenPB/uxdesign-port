@@ -21,6 +21,8 @@ html {
 
 h1{
   color:#fde169;
+  display: flex;
+  justify-content: flex-start;
 
 }
 p{
