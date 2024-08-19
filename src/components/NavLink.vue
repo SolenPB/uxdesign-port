@@ -11,8 +11,6 @@ export default {
 
 <style>
 	a {
-		text-decoration: none;
-        color: white;
         padding-right: 5%;
 	}
 </style>

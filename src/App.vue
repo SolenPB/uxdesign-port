@@ -23,8 +23,8 @@ h1{
   color:#fde169;
   display: flex;
   justify-content: flex-start;
-
 }
+
 p{
   margin: 0;
   color: white;
