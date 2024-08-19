@@ -10,6 +10,6 @@ export default {
 
 <style>
 	p {
-		color: red;
+		color: white;
 	}
 </style>
