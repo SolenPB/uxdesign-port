@@ -19,6 +19,10 @@ html {
   background-color: #0f203a;
 }
 
+h1{
+  color:#fde169;
+  
+}
 p{
   margin: 0;
 }
