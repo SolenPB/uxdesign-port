@@ -13,7 +13,5 @@ export default {
 </template>
 
 <style>
-	p {
-		color: white;
-	}
+
 </style>

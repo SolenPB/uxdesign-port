@@ -21,10 +21,11 @@ html {
 
 h1{
   color:#fde169;
-  
+
 }
 p{
   margin: 0;
+  color: white;
 }
 
 nav {
