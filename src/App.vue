@@ -25,14 +25,14 @@ p{
 
 nav {
   padding: 7%;
-
+  
   a {
     font-weight: bold;
     color: white;
     text-decoration: none;
 
     &.router-link-exact-active {
-      color: #42b983;
+      color: #fde169;
     }
   }
 }
