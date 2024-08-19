@@ -19,7 +19,7 @@ html {
   background-color: #0f203a;
 }
 
-a{
+p{
   margin: 0;
 }
 
