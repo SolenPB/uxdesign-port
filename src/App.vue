@@ -14,7 +14,6 @@ html {
 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
-  text-align: center;
   color:aliceblue;
   background-color: #0f203a;
 }
@@ -37,7 +36,7 @@ p{
 }
 
 nav {
-  padding: 7%;
+  margin: 20%, 20%, 0, 0;
   
   a {
     font-weight: bold;
