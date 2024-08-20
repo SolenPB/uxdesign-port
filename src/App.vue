@@ -20,14 +20,20 @@ html {
 }
 
 h1{
+  width: 70%;
   color:#fde169;
   display: flex;
   justify-content: flex-start;
+  border-bottom: 4px solid #fde169;
+  padding-bottom: 3%;
 }
 
 p{
   margin: 0;
   color: white;
+  display: flex;
+  justify-content: flex-start;
+    
 }
 
 nav {
